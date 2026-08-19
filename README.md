@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31224763/README.md)
+
 #  Python Learning & Projects
 
 Welcome to my **Python Learning Repository**! 🚀
