@@ -1,4 +1,4 @@
-# 🐍 Python Learning & Projects
+#  Python Learning & Projects
 
 Welcome to my **Python Learning Repository**! 🚀
 
